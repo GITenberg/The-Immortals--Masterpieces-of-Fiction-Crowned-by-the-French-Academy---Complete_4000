@@ -1,0 +1,39 @@
+_repo: The-Immortals--Masterpieces-of-Fiction-Crowned-by-the-French-Academy---Complete_4000
+_version: 0.0.1
+alternative_title: The French Immortals Series — Complete
+covers:
+- cover_type: archival
+  image_path: 4000/4000-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2004-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- Collections'
+- !lcc 'PQ'
+- !lcsh 'French fiction'
+- GITenberg
+tableOfContents: An Attic Philosopher by E. Souvestre -- Madame Chrysantheme by Pierre
+  Loti -- Conscience by Hector Malot -- Gerfaut by Charles de Bernard -- Fromont and
+  Risler by Alphonse Daudet -- The Ink-Stain by Rene Bazin -- Jacqueline by Th. Bentzon
+  (Mme. Blanc) -- Cosmopolis by Paul Bourget -- A Romance of Youth by Francois Coppee
+  -- L'Abbe Constantin by Ludovic Halevy -- Cinq Mars by Alfred de Vigny -- Monsieur
+  de Camors by Octave Feuillet -- Child of The Century Alfred de Musset -- A Woodland
+  Queen by Andre Theuriet -- Zebiline by Phillipe de Masa -- Prince Zilah by Jules
+  Claretie -- Monsieur, Madame and Bebe by Gustave Droz -- The Red Lily by Anatole
+  France -- Serge Panine by Georges Ohnet.
+title: 'The Immortals: Masterpieces of Fiction, Crowned by the French Academy — Complete'
+url: http://www.gutenberg.org/ebooks/4000
