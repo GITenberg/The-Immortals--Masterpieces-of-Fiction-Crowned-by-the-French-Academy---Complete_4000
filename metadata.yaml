@@ -1,11 +1,9 @@
 _repo: The-Immortals--Masterpieces-of-Fiction-Crowned-by-the-French-Academy---Complete_4000
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The French Immortals Series — Complete
 covers:
 - cover_type: archival
-  image_path: 4000/4000-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 4000-h/files/4000/4000-h/images/bookcover.jpg
 creator:
   author:
     agent_name: Various
@@ -13,6 +11,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4000#The-Immortals--Masterpieces-of-Fiction-Crowned-by-the-French-Academy---Complete
 gutenberg_issued: '2004-10-30'
 gutenberg_type: Text
 identifiers:
